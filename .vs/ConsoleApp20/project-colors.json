@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "15054d9f-a36a-4fb8-88f7-83d997b018ac": {
+      "ProjectGuid": "15054d9f-a36a-4fb8-88f7-83d997b018ac",
+      "DisplayName": "ConsoleApp20",
+      "ColorIndex": 0
+    },
+    "823a2535-4987-4131-966e-6fe3d242ac58": {
+      "ProjectGuid": "823a2535-4987-4131-966e-6fe3d242ac58",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
